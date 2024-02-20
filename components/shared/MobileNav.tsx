@@ -6,7 +6,7 @@ import {
     SheetHeader,
     SheetTitle,
     SheetTrigger,
-  } from "@/components/ui/sheet"
+  } from "@/components/ui/Sheet"
 import { Separator } from "@/components/ui/separator"
 
 import Image from 'next/image'
